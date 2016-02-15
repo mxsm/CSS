@@ -1,0 +1,25 @@
+strong{color:red;}
+
+.strong_1{color: green;}
+.strong_2{color: blue;}
+.strong_3{color: pink;}
+
+#strong_a{color: green;}
+#strong_b{color: blue;}
+#strong_c{color: pink;}
+
+.baidu:hover{color: black;}
+.baidu:link{color: hotpink;}
+.baidu:visited{color:green;}
+.baidu:active{color: blue;}
+
+.table-class{border: 1px solid;}
+#table-id td:first-child{color: red;}
+
+#table-id td:first-child + td{font-family: "Times New Roman",Georgia,Serif;}
+
+.carrot{color: orange;}
+.spinach{color: green;}
+#first{font-style: italic;}
+
+#second, #first{color: blue;}

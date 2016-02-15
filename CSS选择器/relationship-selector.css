@@ -1,0 +1,13 @@
+.AandE p strong{color: red;}
+
+div.aaa > strong{
+	color: pink;
+}
+
+div.bbb strong:first-child{
+	color: blue;
+}
+
+div.ccc strong + p{
+	color: red;
+}
