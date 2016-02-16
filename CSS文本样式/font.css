@@ -1,0 +1,7 @@
+.aa, .dd, .ee, .ff{color: red; font: 200% serif;}
+.bb, .cc{color: green; font: 200% serif;}
+body {
+	font: 16px "Comic Sans MS", cursive;
+	background: url("Blue-rule.png");
+}
+
