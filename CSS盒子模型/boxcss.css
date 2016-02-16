@@ -1,0 +1,14 @@
+
+body p.heads{
+	background-color: red;
+	border:1px solid transparent;
+}
+div.box{
+	background-color: gray;
+    border: 1px solid transparent;
+}
+div p.elements{
+	background-color: green;
+	padding: 10px;
+	margin: 20px;
+}
