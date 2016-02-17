@@ -1,0 +1,32 @@
+div.first{
+	position: relative;
+	float: left;
+}
+
+.type_a{list-style-type: disc; }
+.type_b{list-style-type: circle;}
+.type_c{list-style-type: square;}
+
+._image{
+	font-size: 28px;
+	list-style-image: url("starsolid.gif");
+	list-style-position: inside;
+}
+
+._postion{
+	list-style-position: inside;
+}
+
+div.second{
+	position: relative;
+	float: left;
+	margin-left: 100px;
+}
+
+ol.info{
+	list-style-type: upper-roman;
+}
+
+ol.info-2{
+	list-style-type: upper-latin;
+}
