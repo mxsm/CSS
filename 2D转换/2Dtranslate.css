@@ -1,0 +1,7 @@
+.translate_css{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	transform:translate(100px);
+	transform-origin: 50% 50%; 
+}
