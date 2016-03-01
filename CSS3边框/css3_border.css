@@ -1,0 +1,16 @@
+#test_radius{
+	background-color: gray;
+	border: 1px solid gray;
+	text-align: center;
+	padding: 10px 40px;
+	width: 350px;
+	border-radius: 25px;
+}
+
+#test_button{
+	background: gray;
+	border: transparent;
+	height: 40px;
+	width: 80px;
+	border-radius: 15px 10px 20px;
+}
