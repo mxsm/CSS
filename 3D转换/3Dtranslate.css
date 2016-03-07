@@ -1,0 +1,6 @@
+.translates{
+	width: 100px;
+	height:100px;
+	background-color: gray;
+	transform: rotate3d(0.3,0.5,0.2,60deg);
+}
