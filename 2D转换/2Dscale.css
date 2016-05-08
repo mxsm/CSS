@@ -1,0 +1,8 @@
+.scale_css{
+	/*margin: 100px;*/
+	width: 100px;
+	height:100px;
+	background-color: gray;
+	transform:scale(2,2);
+	transform-origin: 0 0;
+}

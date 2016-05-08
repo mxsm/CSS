@@ -1,0 +1,37 @@
+body{
+	margin:0;
+}
+.div_1{
+	background-color:green;
+	width: 100px;
+	
+	margin: 50px 0;
+}
+
+.div_1_1{
+	background-color:red;
+	margin: -60px 0;
+
+}
+
+.div_1_1_1{
+	background-color:gray;
+	margin: 150px 0;
+	height:20px;
+}
+
+.div_2{
+	background-color:green;
+	width: 100px;
+	
+	margin:-100px 0;
+}
+
+.div_2_1{
+	margin:-120px 0;
+}
+
+.div_2_1_1{
+	margin:200px 0;
+	height:20px;
+}

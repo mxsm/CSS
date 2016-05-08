@@ -1,0 +1,14 @@
+.div_1{
+	background-color: red;
+	width:100px;
+	height:100px;
+	margin-bottom:-75px; 
+}
+
+.div_2{
+	background-color:gray;
+	width:100px;
+	height:100px;
+	margin-top:-50px;
+	margin-left:50px;
+}

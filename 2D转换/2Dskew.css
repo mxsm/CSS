@@ -1,0 +1,9 @@
+.skew_css{
+	margin-top: 100px;
+	margin-left: 300px;
+	width: 100px;
+	height: 100px;
+	background-color:gray;
+	transform:skewX(120deg);
+	transform-origin: 0 0 ;
+}
